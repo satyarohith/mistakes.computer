@@ -23,6 +23,10 @@ Run the local server:
 
     deployctl run --watch --libs=ns,fetchevent src/index.tsx
 
+Run the tests:
+
+    deno test
+
 License
 -------
 
